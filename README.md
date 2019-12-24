@@ -29,3 +29,10 @@ Then move in to the project folder and start building using docker compose. Late
 ```
 docker build -t postgresql .
 ```
+
+
+# CREATING A DATABASE CLUSTER
+
+https://severalnines.com/database-blog/how-deploy-postgresql-docker-container-using-clustercontrol
+
+Creating a cluster of Postgresql servers is the plan for Ausclepius project.
